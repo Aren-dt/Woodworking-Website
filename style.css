@@ -10,6 +10,7 @@ body {
 .selector {
   background-color: black;
   color: white;
+  text-align: center;
 }
 .gallery {
   background-color: #aaaaaa;
