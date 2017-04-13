@@ -9,6 +9,7 @@ body {
 }
 .selector {
   background-color: black;
+  color: white;
 }
 .gallery {
   background-color: #aaaaaa;
