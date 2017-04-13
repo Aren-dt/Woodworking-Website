@@ -15,6 +15,10 @@ body {
 .gallery {
   background-color: #aaaaaa;
 }
+.button  {
+  padding: 200px 0px 200px 0px;
+  text-align: center;
+}
 .store  {
   padding: 200px 0px 200px 0px;
   text-align: center;
