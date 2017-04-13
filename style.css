@@ -2,10 +2,10 @@ body {
   
 }
 .wrapper {
-  
   display: grid;
   grid-template-columns: 50% 50%;
   grid-gap: 0px;
+  height: 100%;
 }
 .selector {
   background-color: black;
