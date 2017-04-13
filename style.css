@@ -16,10 +16,10 @@ body {
   background-color: #aaaaaa;
 }
 .button  {
-  padding: 200px 0px 200px 0px;
+  padding: 100px 0px 100px 0px;
   text-align: center;
 }
-.store  {
+#store  {
   padding: 200px 0px 200px 0px;
   text-align: center;
 }
