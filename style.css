@@ -16,7 +16,7 @@ body {
   background-color: #aaaaaa;
 }
 .button  {
-  padding: 100px 0px 100px 0px;
+  padding:!important 100px 0px 100px 0px;
   text-align: center;
 }
 #store  {
