@@ -30,3 +30,7 @@ body {
   padding-top: 300px;
   text-align: center;
 }
+a {
+  color: inherit;
+  text-decoration: none;
+}
