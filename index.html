@@ -5,10 +5,16 @@
 </head>
 <body>
  
-<img class="mySlides" src="http://imgur.com/r/woodworking/OVarb">
-<img class="mySlides" src="http://imgur.com/r/woodworking/MPf4Iab">
 
-<script>  
+  <div class="wrapper">
+   <div class="gallery">
+     <button class="w3-button w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
+     <button class="w3-button w3-display-right" onclick="plusDivs(+1)">&#10095;</button>
+     <img class="mySlides" src="http://imgur.com/r/woodworking/OVarb">
+     <img class="mySlides" src="http://imgur.com/r/woodworking/MPf4Iab">
+  </div>
+    
+ <script>  
   var slideIndex = 1;
 showDivs(slideIndex);
 
@@ -27,13 +33,6 @@ function showDivs(n) {
     x[slideIndex-1].style.display = "block"; 
 }
 </script>
-
-
-  <div class="wrapper">
-   <div class="gallery">
-    <button class="w3-button w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
-    <button class="w3-button w3-display-right" onclick="plusDivs(+1)">&#10095;</button>
-  </div>
   
   <div class="selector">
     <div class="headspace">
