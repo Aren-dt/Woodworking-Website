@@ -30,9 +30,10 @@ body {
   padding-top: 300px;
   text-align: center;
 }
-.mySlides {
-  width: 50%;
-  border: 3px #aaaaaa;
+img {
+    display: block;
+    margin: auto;
+    width: 40%;
 }
 a {
   color: inherit;
