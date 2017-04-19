@@ -6,11 +6,12 @@ h1  {
  text-align:center;
  color: white;
  padding-top: 20px;
- font-size: 24px;
- font-weight: 600;
- letter-spacing: 10px;
+ font-size: 64px;
+ font-weight: 300;
+ letter-spacing: 25px;
+ border: white;
 }
-.header {
+.banner {
   background-color: black;
   padding-bottom: 860px;
 }
