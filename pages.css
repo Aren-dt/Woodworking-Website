@@ -11,3 +11,6 @@ h1  {
  letter-spacing: 10px;
  border-bottom: 2px solid black;
 }
+.header {
+  background-color: black;
+}
