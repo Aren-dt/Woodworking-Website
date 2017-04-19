@@ -13,6 +13,7 @@ h1  {
 }
 .banner {
   background-image: url ("https://raw.githubusercontent.com/Aren-dt/Woodworking-Website/gh-pages/banner.jpeg");
+  background-color: black;
   padding-bottom: 340px;
 }
 #store-title  {
