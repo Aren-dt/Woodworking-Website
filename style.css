@@ -31,7 +31,8 @@ body {
   text-align: center;
 }
 .mySlides {
-  text-align: center;
+  width: 50%;
+  border: 3px #aaaaaa;
 }
 a {
   color: inherit;
