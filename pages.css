@@ -9,12 +9,12 @@ h1  {
  font-size: 64px;
  font-weight: 300;
  letter-spacing: 25px;
- border: white;
+ border: 2px solid white;
 }
 .banner {
   background-color: black;
-  padding-bottom: 735px;
+  padding-bottom: 395px;
 }
 #store-title  {
- padding-top: 365px; 
+ padding-top: 300px; 
 }
