@@ -9,4 +9,5 @@ h1  {
  font-size: 24px;
  font-weight: 600;
  letter-spacing: 10px;
+ border-bottom: 2px solid black;
 }
