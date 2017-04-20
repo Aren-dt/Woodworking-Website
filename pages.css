@@ -30,4 +30,7 @@ h1  {
 }
 .store-listings {
   border: 1px solid black;
+  display: grid;
+  grid-template-columns: 30% 30% 30%;
+  grid-gap: 20px;
 }
