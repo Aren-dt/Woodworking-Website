@@ -14,9 +14,10 @@ h1  {
 .banner {
   background-image: url("https://raw.githubusercontent.com/Aren-dt/Woodworking-Website/gh-pages/banner.jpeg");
   background-repeat: no-repeat;
-  background-size: 100%;
+  background-size: 1300px;
   background-color: black;
   padding-bottom: 340px;
+  margin: auto;
 }
 #store-title  {
  padding: 300px 75px 5px 75px; 
