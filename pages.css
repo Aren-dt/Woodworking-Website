@@ -22,6 +22,10 @@ h1  {
 #store-title  {
  padding: 300px 75px 5px 75px; 
 }
-.store-listings {
+.store-wrapper {
   background-color: white;
+  display: grid;
+  grid-template-columns: 20% 80%;
+  grid-gap: 100px;
 }
+
