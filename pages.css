@@ -1,5 +1,5 @@
 body {
-  background-color: #aaaaaa;
+  background-color: black;
   font-family: "Montserrat", sans-serif;
 }
 h1  {
@@ -14,10 +14,10 @@ h1  {
 .banner {
   background-image: url("https://raw.githubusercontent.com/Aren-dt/Woodworking-Website/gh-pages/banner.jpeg");
   background-repeat: no-repeat;
-  background-size: 1300px;
+  background-size: 1900px;
   background-color: black;
   padding-bottom: 340px;
-  background-position: 20px 20px; 
+  background-position: center; 
 }
 #store-title  {
  padding: 300px 75px 5px 75px; 
