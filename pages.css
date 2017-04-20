@@ -22,3 +22,6 @@ h1  {
 #store-title  {
  padding: 300px 75px 5px 75px; 
 }
+.store-listings {
+  background-color: white;
+}
