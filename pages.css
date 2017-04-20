@@ -29,8 +29,10 @@ h1  {
   grid-gap: 100px;
 }
 .store-listings {
-  border: 1px solid black;
   display: grid;
   grid-template-columns: 30% 30% 30%;
   grid-gap: 20px;
+}
+.selector-bar {
+    border: 1px solid black;
 }
