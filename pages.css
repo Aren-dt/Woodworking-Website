@@ -27,7 +27,7 @@ h1  {
   display: grid;
   grid-template-columns: repeat(4, [col] 500px ) ;
   grid-template-rows: repeat(1, [row] 1000px );
-  grid-gap: 100px;
+  grid-gap: 0px;
 }
 .store-listings {
   display: grid;
