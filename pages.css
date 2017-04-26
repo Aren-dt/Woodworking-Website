@@ -28,6 +28,7 @@ h1  {
   grid-template-columns: repeat(4, [col] auto ) ;
   grid-template-rows: repeat(1, [row] auto );
   grid-gap: 0px;
+  width:100%
 }
 .store-listings {
   display: grid;
