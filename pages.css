@@ -39,6 +39,7 @@ h1  {
 .selector-bar {
   border: 1px solid black;
   background-color: white;
+  width:20%;
 }
 .buffer {
   background-color: #aaaaaa;
