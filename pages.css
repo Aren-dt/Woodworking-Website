@@ -24,10 +24,6 @@ h1  {
 }
 .store-wrapper {
   background-color: #aaaaaa;
-  display: grid;
-  grid-template-columns: repeat(4, [col] auto ) ;
-  grid-template-rows: repeat(1, [row] auto );
-  grid-gap: 0px;
   width:100%
 }
 .store-listings {
