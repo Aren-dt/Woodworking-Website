@@ -25,14 +25,14 @@ h1  {
 .store-wrapper {
   background-color: white;
   display: grid;
-  grid-template-columns: repeat(4, [col] 500px ) ;
-  grid-template-rows: repeat(1, [row] 1000px );
+  grid-template-columns: repeat(4, [col] auto ) ;
+  grid-template-rows: repeat(1, [row] auto );
   grid-gap: 0px;
 }
 .store-listings {
   display: grid;
-  grid-template-columns: repeat(3, [col] 200px);
-  grid-template-rows: repeat(2, [row] auto);
+  grid-template-columns: repeat(3, [col] auto );
+  grid-template-rows: repeat(2, [row] auto );
   grid-gap: 20px;
   background-color: white;
 }
