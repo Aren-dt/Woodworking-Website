@@ -47,6 +47,7 @@ h1  {
  display: grid;  grid-template-columns: repeat(1, [col] 150px );
  grid-template-rows: repeat(3, [row] 150px );
  grid-gap: 0px;
+ width: 33%;
 }
 img {
   display: block;
