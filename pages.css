@@ -48,4 +48,9 @@ h1  {
  grid-template-rows: repeat(3, [row] auto );
  grid-gap: 0px;
 }
-
+img {
+  display: block;
+  margin: auto;
+  width: 40%;
+  padding: 15px;
+}
