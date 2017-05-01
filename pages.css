@@ -11,6 +11,9 @@ h1  {
  letter-spacing: 25px;
  border: 2px solid black;
 }
+.wrapper  {
+ margin: 0px; 
+}
 .banner {
   background-image: url("https://raw.githubusercontent.com/Aren-dt/Woodworking-Website/gh-pages/banner.jpeg");
   background-repeat: no-repeat;
