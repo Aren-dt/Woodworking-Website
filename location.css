@@ -14,6 +14,7 @@ body  {
 a {
  text-decoration: none;
  color: inherit;
+  border: 2px solid black;
 }
 a:hover {
  color: black; 
